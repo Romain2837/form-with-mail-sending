@@ -16,7 +16,7 @@ if (empty($nom) || empty($prenom) || empty($email) || empty($sujet) || empty($co
     die();
 } else {
 
-//sécuriser les données avant d'exécuter des req. sql
+//securiser les données avant d'exécuter des req. sql
 
     $nom = $db->quote($nom, PDO::PARAM_STR);
     $prenom = $db->quote($prenom, PDO::PARAM_STR);
