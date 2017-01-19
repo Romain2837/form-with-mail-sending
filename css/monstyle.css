@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 janv. 2017, 10:52:17
+    Author     : Romain
+*/
+
+
+.titrecentre{
+    margin-top: 30px;
+    text-align: center;
+    font-family: lora;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#formpubndrive{
+    margin-top: 50px;
+}
